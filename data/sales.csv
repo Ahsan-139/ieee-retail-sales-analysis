@@ -1,0 +1,38 @@
+order_id,date,product_name,category,units_sold,unit_price,region
+1001,2026-09-01,Wireless Mouse,Electronics,5,25.0,North
+1002,2026-09-01,Mechanical Keyboard,Electronics,2,80.0,South
+1003,2026-09-02,Coffee Mug,Home,abc,12.5,East
+1004,2026-09-02,Desk Mat,Home,3,,West
+1005,2026-09-03,Wireless Mouse,Electronics,5,25.0,North
+1006,2026-09-03,Gaming Headset,Electronics,1,120.0,North
+1007,2026-09-04,Coffee Mug,Home,8,12.5,East
+1008,2026-09-04,Desk Lamp,Home,4,35.0,South
+1009,2026-09-05,Notebook Pack,Stationery,10,6.0,West
+1010,2026-09-05,Gel Pen Set,Stationery,12,4.5,North
+1011,2026-09-06,Mechanical Keyboard,Electronics,3,80.0,East
+1012,2026-09-06,Wireless Mouse,Electronics,2,,South
+1013,2026-09-07,Yoga Mat,Fitness,4,28.0,West
+1014,2026-09-07,Dumbbell Set,Fitness,2,65.0,North
+1015,2026-09-08,Gaming Headset,Electronics,2,120.0,West
+1016,2026-09-08,Water Bottle,Fitness,15,9.0,East
+1017,2026-09-09,Desk Mat,Home,6,18.0,South
+1018,2026-09-09,Notebook Pack,Stationery,7,6.0,North
+1019,2026-09-10,Desk Lamp,Home,2,35.0,
+1020,2026-09-10,Yoga Mat,Fitness,-3,28.0,East
+1021,2026-09-11,Wireless Mouse,Electronics,6,25.0,West
+1022,2026-09-11,Coffee Mug,Home,10,12.5,North
+1023,2026-09-12,Gaming Headset,Electronics,1,-120.0,South
+1024,2026-09-12,,Home,3,15.0,East
+1025,2026-09-13,Dumbbell Set,Fitness,1,65.0,West
+1026,2026-09-13,Gel Pen Set,Stationery,9,4.5,South
+1027,not-a-date,Notebook Pack,Stationery,5,6.0,North
+1028,2026-09-14,Mechanical Keyboard,Electronics,4,80.0,North
+1029,2026-09-14,Water Bottle,Fitness,11,9.0,West
+1030,2026-09-15,Desk Mat,Home,5,18.0,East
+1031,2026-09-15,Gaming Headset,Electronics,3,120.0,East
+1032,2026-09-16,Yoga Mat,Fitness,6,28.0,South
+1033,2026-09-16,Desk Lamp,Home,3,35.0,West
+1034,2026-09-17,Wireless Mouse,Electronics,4,25.0,East
+1035,2026-09-17,Desk Mat,Home,2,,North
+1006,2026-09-03,Gaming Headset,Electronics,1,120.0,North
+1010,2026-09-05,Gel Pen Set,Stationery,12,4.5,North
