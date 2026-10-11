@@ -18,7 +18,7 @@ A small retailer exported its September 2026 sales records into a raw CSV that c
 ## 3. How to Run the Program
 
 ```shell
-pip install -r requirements.txt
+pip install pandas numpy matplotlib
 python main.py
 ```
 
@@ -66,7 +66,6 @@ Summary report (part 2: high-value orders and filter demos):
 ieee-retail-sales-analysis/
 ├── README.md
 ├── main.py
-├── requirements.txt
 ├── data/
 │   └── sales.csv
 ├── charts/
